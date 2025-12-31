@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keithgoggin.com/sitemap.xml
